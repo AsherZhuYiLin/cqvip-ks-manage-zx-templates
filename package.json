@@ -1,29 +1,4 @@
 {
-  "_from": "zx-templates@^0.0.26",
-  "_id": "zx-templates@0.0.26",
-  "_inBundle": false,
-  "_integrity": "sha512-6ya6BnxUPlsCxEpLuNZ5JKV0jyPXl1CeGgzyi+gqhD3J0gH8h4oEjA5IiyFmHYIpghf6vRE0C2ptpi5IwdJWug==",
-  "_location": "/zx-templates",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "range",
-    "registry": true,
-    "raw": "zx-templates@^0.0.26",
-    "name": "zx-templates",
-    "escapedName": "zx-templates",
-    "rawSpec": "^0.0.26",
-    "saveSpec": null,
-    "fetchSpec": "^0.0.26"
-  },
-  "_requiredBy": [
-    "/"
-  ],
-  "_resolved": "https://mirrors.huaweicloud.com/repository/npm/zx-templates/-/zx-templates-0.0.26.tgz",
-  "_shasum": "89369ee7cd5876740dccd83be6bb448b5c69e444",
-  "_spec": "zx-templates@^0.0.26",
-  "_where": "/Users/zhuyilin/Documents/VipProject/vip-peixun-web/Manage",
-  "bundleDependencies": false,
-  "deprecated": false,
   "name": "zx-templates",
   "version": "0.0.26"
 }
